@@ -12,7 +12,7 @@ A modern, role-based commodities management system built with React, featuring a
 
 ## 🚀 Live Demo
 
-**🌐 Deployment Link:** [YOUR_DEPLOYMENT_LINK_HERE]
+**🌐 Deployment Link:** https://commodities-mgmt-app25.vercel.app/login
 
 ### 🔐 Demo Credentials
 
